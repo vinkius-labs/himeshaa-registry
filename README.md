@@ -7,9 +7,9 @@ This repository is the single source of truth for all agent definitions. Himesha
 ## How It Works
 
 ```
-himeshaa-agents/
+himeshaa-registry/
 └── agents/
-    ├── default/              ← Official agents maintained by the core team
+    ├── official/             ← Official agents maintained by the core team
     │   ├── security-analyst/
     │   │   └── agent.yaml
     │   ├── devops-engineer/
