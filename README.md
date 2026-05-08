@@ -73,7 +73,7 @@ constraints:
 # A2A-compatible persona definition.
 # Directory name = unique identifier (slug).
 # Icon reference: https://lucide.dev/icons
-# Spec: github.com/vinkius-labs/himeshaa-agents
+# Spec: github.com/vinkius-labs/himeshaa-registry
 
 name: Security Analyst
 version: "1.0.0"
